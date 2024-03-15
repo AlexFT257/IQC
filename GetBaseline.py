@@ -6,7 +6,7 @@ from dom import DOM
 # inicializar DOM
 iqa = DOM()
 
-# ruta de las imágenes
+# ruta de las peores imágenes
 path = r'D:\La nada dentro del todo\Codigos\Python\IQC\Worst'
 
 # lista de imágenes
